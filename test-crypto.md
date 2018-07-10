@@ -3,8 +3,7 @@
 ## Step 1) Retrieve Exchange Wallet Address
 In order to get test currency, first visit the funds page, and open the deposit section of the crypto for which you require test currency. For this guide, we will use bitcoins testnet in order to get some test bitcoins, which we can then use on the exchange to trade.
 
-The deposit section of bitcoin will contain an address to which you will be depositing your test currency
-Copy the address as you will require this in a moment. From there, use a testnet faucet in order to receive test currencies.
+The deposit section of bitcoin will contain an address to which you will be depositing your test currency. If you do not see an address, simply refresh. Copy the address as you will require this in a moment. From there, use a testnet faucet in order to receive test currencies.
 
 ![alt text](https://imgur.com/wJ29qA9.png)
 
